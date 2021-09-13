@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ## 📫 How to reach me: 
-- Discord  : Zeyros
+- Discord  : Zeyros#9392
+- Mail pro : mvk181@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/vkg-mathis-488bb6212/" target="_blank">Profile</a>
 
 <!--
