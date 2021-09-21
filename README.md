@@ -2,6 +2,7 @@
 
 ## About me
 Hello, i'm a junior front-end web developper.
+
 I love creating new projects stimulating my abilities and pushing to my limits.
 
 I’m currently learning at BeCode
