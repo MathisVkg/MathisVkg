@@ -1,9 +1,17 @@
 ### Hi there 👋
 
+## About me
+Hello, i'm a junior front-end web developper.
+I love creating new projects stimulating my abilities and pushing to my limits.
+
+I’m currently learning at BeCode
+
 ## 📫 How to reach me: 
 - Discord  : Zeyros#9392
 - Mail pro : mvk181@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/vkg-mathis-488bb6212/" target="_blank">Profile</a>
+- NPX : you can print my npx card with this command *npx mathisvkg*
+
 
 <!--
 **MathisVkg/MathisVkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
