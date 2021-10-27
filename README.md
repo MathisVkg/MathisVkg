@@ -11,7 +11,7 @@ I’m currently learning at BeCode
 ## 📫 How to reach me: 
 - Discord  : Zeyros#9392
 - Mail pro : mvk181@gmail.com
-- Linkedin : <a href="https://www.linkedin.com/in/vkg-mathis-488bb6212/" target="_blank">Profile</a>
+- Linkedin : <a href="https://www.linkedin.com/in/mathis-vkg/" target="_blank">Profile</a>
 - NPX : you can print my npx card with this command *npx mathisvkg*
 
 
