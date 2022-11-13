@@ -6,7 +6,7 @@ Hello, i'm a junior front-end web developper.
 I love creating new projects stimulating my abilities and pushing to my limits.
 I’m currently learning at BeCode
 <br>
-- Website : <a href="https://mathisvkg.github.io/Portfolio/" target="_blank">My website</a>
+- Website : <a href="http://www.mathisvkg.website" target="_blank">My website</a>
 
 ## 📫 How to reach me: 
 - Discord  : Zeyros#9392
