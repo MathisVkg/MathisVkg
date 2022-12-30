@@ -19,7 +19,6 @@ I love creating new projects stimulating my abilities and pushing to my limits.
 
 ## ⚡
 - I'm currently searching for work. So if my profil can interest you, do not hesitate to contact me to discuss it more during an interview.
-- 
 <!--
 **MathisVkg/MathisVkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
