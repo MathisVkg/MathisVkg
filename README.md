@@ -7,8 +7,7 @@ I love creating new projects stimulating my abilities and pushing to my limits.
 
 <!--<br>- Website : <a href="http://mathisvkg.website" target="_blank">My website</a> -->
 <br>
-# ⚡
-- I'm currently searching for work. So if my profil can interest you, do not hesitate to contact me to discuss it more during an interview.
+⚡ I'm currently searching for work. So if my profil can interest you, do not hesitate to contact me to discuss it more during an interview.
 
 ## 📫 How to reach me: 
 - Discord  : Zeyros#9392
