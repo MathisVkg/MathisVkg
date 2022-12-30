@@ -4,15 +4,14 @@
 Hello, i'm a junior front-end web developper.
 
 I love creating new projects stimulating my abilities and pushing to my limits.
-I’m currently learning at BeCode
 <br>
-- Website : <a href="http://mathisvkg.website" target="_blank">My website</a>
+<!-- - Website : <a href="http://mathisvkg.website" target="_blank">My website</a> -->
 
 ## 📫 How to reach me: 
 - Discord  : Zeyros#9392
 - Mail pro : mvk181@gmail.com
 - Linkedin : <a href="https://www.linkedin.com/in/mathis-vkg/" target="_blank">Profile</a>
-- NPX : you can print my npx card with this command *npx mathisvkg*
+<!-- - NPX : you can print my npx card with this command *npx mathisvkg* -->
 
 
 ## 🔭 I’m currently working on:
