@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 ## About me
-Hello, i'm a junior front-end web developper.
+Hello, I am a passionate junior front-end developer with a strong interest in Javascript and React. I enjoy building APIs and databases and am always looking for ways to improve my skills and knowledge in these areas. I have a solid understanding of HTML, CSS, and JavaScript, and am able to use these technologies to create user interfaces for web applications that are both functional and visually appealing.
 
 I love creating new projects stimulating my abilities and pushing to my limits.
+
 <br>
 <!-- - Website : <a href="http://mathisvkg.website" target="_blank">My website</a> -->
 
@@ -15,14 +16,14 @@ I love creating new projects stimulating my abilities and pushing to my limits.
 
 
 ## 🔭 I’m currently working on:
-- API blockchain/crypto
-- React project
+- I'm pausing projects for now, comming back later with new things !
 
+## ⚡
+- I'm currently searching for work. So if my profil can interest you, do not hesitate to contact me to discuss it more during an interview.
+- 
 <!--
 **MathisVkg/MathisVkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
