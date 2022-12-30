@@ -6,6 +6,9 @@ Hello, I am a passionate junior front-end developer with a strong interest in Ja
 I love creating new projects stimulating my abilities and pushing to my limits.
 
 <!--<br>- Website : <a href="http://mathisvkg.website" target="_blank">My website</a> -->
+<br>
+# ⚡
+- I'm currently searching for work. So if my profil can interest you, do not hesitate to contact me to discuss it more during an interview.
 
 ## 📫 How to reach me: 
 - Discord  : Zeyros#9392
@@ -17,8 +20,6 @@ I love creating new projects stimulating my abilities and pushing to my limits.
 ## 🔭 I’m currently working on:
 - I'm pausing projects for now, comming back later with new things !
 
-## ⚡
-- I'm currently searching for work. So if my profil can interest you, do not hesitate to contact me to discuss it more during an interview.
 <!--
 **MathisVkg/MathisVkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
